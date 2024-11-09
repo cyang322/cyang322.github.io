@@ -26,9 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in computer science at NJIT"
   location         : "Newark, New Jersey"
-  employer         : |+
-                      New Jersey Institute 
-                      of Technology
+  employer         : "New Jersey Institute \n of Technology"
   uri              : # URL
   email            : "cy322@njit.edu" 
 
