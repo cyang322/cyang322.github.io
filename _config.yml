@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengyu Yang's Academic Webpage"
+title                    : "Yang's Academic Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "nycs.png"
-  name             : "Chengyu Yang"
+  name             : "Yang, Chengyu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in computer science at NJIT"
   location         : "Newark, New Jersey"
-  employer         : "New Jersey Institute \n of Technology"
+  employer         : "New Jersey Institute of Technology"
   uri              : # URL
   email            : "cy322@njit.edu" 
 
