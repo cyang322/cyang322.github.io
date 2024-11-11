@@ -21,9 +21,12 @@ Publications
 Latest News
 ------
 - [11/06/2024] Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024) at The University of Manchester, UK.
-- [09/03/2024] Start my Ph.D. journey at NJIT.
+- [09/03/2024] Starting my Ph.D. journey at NJIT.
 - ......
 
+Teaching
+------
+- CSCI
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
