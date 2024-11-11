@@ -31,3 +31,7 @@ Teaching Assistant
 - CSCI243-01: Discrete Mathematics, William & Mary, 2023 Spring & 2024 Fall
 - CSCI303-01: Algorithms, William & Mary, 2022 Fall
 
+Industrial Experience
+------
+-Software Engineer Intern, HUAWEI, 06/2021-09/2021, Shenzhen, China
+
