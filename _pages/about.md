@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student in the department of computer science at [New Jersey Institute of Technology](https://www.njit.edu/), advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in mathematics from [South China University of Technology (华南理工大学)](https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115) in 2022.
+I am a first-year Ph.D. student in the department of computer science at [New Jersey Institute of Technology](https://www.njit.edu/), advised by [Prof. Chengjun Liu](https://web.njit.edu/~cliu/). Previously, I received my Bachelor's degree in mathematics from [South China University of Technology (华南理工大学)](https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115).
 
 
 Research Interest
@@ -20,7 +20,7 @@ Publications
 
 Latest News
 ------
-- <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
+- [11/06/2024] Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
 - [09/03/2024] Starting my Ph.D. journey at NJIT.
 - ......
 
