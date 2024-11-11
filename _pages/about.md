@@ -26,8 +26,8 @@ Latest News
 
 Teaching Assistant
 ------
-- FA24-CS670001, FA24-CS670003, FA24-CS670885: Artificial Intelligence at NJIT, 2024 Fall
-- CSCI301-0102-S24: Software Development at William & Mary, 2024 Spring
-- CSCI243-01-S23, CSCI243-01-F23: Discrete Mathematics at William & Mary, 2023 Spring & 2024 Fall
+- FA24-CS670001, FA24-CS670003, FA24-CS670885: Artificial Intelligence, NJIT, 2024 Fall
+- CSCI301-0102-S24: Software Development, William & Mary, 2024 Spring
+- CSCI243-01-S23, CSCI243-01-F23: Discrete Mathematics, William & Mary, 2023 Spring & 2024 Fall
 - CSCI303-01-F22: Algorithms, 2022 Fall
 
