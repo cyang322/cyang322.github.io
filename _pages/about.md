@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengyu Yang"
+title: "Yang, Chengyu"
 author_profile: true
 redirect_from: 
   - /about/
