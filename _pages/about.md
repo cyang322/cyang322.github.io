@@ -15,7 +15,7 @@ I am generally interested in machine learning, particularly its appliaction in m
 
 Publications
 ------
-- Chengyu Yang and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", 
+- Chengyu Yang* and Chengjun Liu, "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches", 
 
 A data-driven personal website
 ======
