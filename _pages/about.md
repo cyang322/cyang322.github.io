@@ -33,5 +33,5 @@ Teaching Assistant
 
 Industrial Experience
 ------
-- Software Engineer Intern, HUAWEI, 06/2021 - 09/2021, Shenzhen, China
+-  HUAWEI, Software Engineer Intern, 06/2021 - 09/2021, Shenzhen, China
 
