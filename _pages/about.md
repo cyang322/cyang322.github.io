@@ -20,8 +20,8 @@ Publications
 
 Latest News
 ------
-- [11/06/2024] Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
-- [09/03/2024] Starting my Ph.D. journey at NJIT.
+- <u>[11/06/2024]</u> Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by <em>The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024)</em> at The University of Manchester, UK.
+- <u>[09/03/2024]</u> Starting my Ph.D. journey at NJIT.
 - ......
 
 Teaching Assistant
