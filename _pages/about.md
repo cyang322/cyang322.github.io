@@ -20,7 +20,7 @@ Publications
 Latest News
 ------
 - [11/06/2024] Paper "Increasing Rosacea Awareness Among Population Using Deep Learning and Statistical Approaches" is accepted by The 5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD, 2024).
-- [09/03/2024] Start my Ph.D. journey at NJIT with Prof. Chengjun Liu.
+- [09/03/2024] Start my Ph.D. journey at NJIT.
 - ......
 
 A data-driven personal website
